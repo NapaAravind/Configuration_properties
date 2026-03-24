@@ -1,12 +1,1 @@
-spring:
-  application:
-    name: WelcomeService
-    
-    
-server:
-  port: 9091
-
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:9090/eureka
+msg: Welcome To Napa Aravind Coding World
